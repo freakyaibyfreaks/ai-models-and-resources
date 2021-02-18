@@ -1,0 +1,5 @@
+https://www.michaelphi.com/illustrated-guide-to-transformers/
+
+https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html
+
+https://github.com/practical-nlp/practical-nlp

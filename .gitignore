@@ -12,7 +12,19 @@ bin-release/
 *.air
 *.ipa
 *.apk
-
+handwritten-text-recognition-for-apache-mxnet/.ipynb_checkpoints
+handwritten-text-recognition-for-apache-mxnet/*~
+handwritten-text-recognition-for-apache-mxnet/handwritting/*
+handwritten-text-recognition-for-apache-mxnet/dataset/*
+handwritten-text-recognition-for-apache-mxnet/credentials.json
+handwritten-text-recognition-for-apache-mxnet/logs/*
+handwritten-text-recognition-for-apache-mxnet/nohup.out
+handwritten-text-recognition-for-apache-mxnet/model_checkpoint/*.params
+handwritten-text-recognition-for-apache-mxnet/*.bin.gz
+handwritten-text-recognition-for-apache-mxnet/*__pycache__*
+handwritten-text-recognition-for-apache-mxnet/tmp/*
+handwritten-text-recognition-for-apache-mxnet/ocr/utils/sctk-*/
+handwritten-text-recognition-for-apache-mxnet/models/*
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
